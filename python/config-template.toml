@@ -1,0 +1,3 @@
+[Configuration]
+address = tcp://*:$port
+timeout = 1.2
